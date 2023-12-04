@@ -1,5 +1,7 @@
 # Miguel Carvalho Soares
 
+<img src="./img/1697625348754.jfif" alt="Miguel" />
+
 ## Introdução
 
 Olá! Sou Miguel Carvalho Soares, ingressante do segundo semestre de 2022 na [Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/). Minha paixão pela computação foi despertada durante o curso técnico de informática, onde descobri a satisfação em resolver problemas complexos e criar sistemas como desafiadores quebra-cabeças.
@@ -12,8 +14,60 @@ Vamos explorar juntos essa jornada onde cada desafio é uma oportunidade de cres
 
 ## Meus Projetos
 
-## :heavy_check_mark: Em 2022-2
+## :heavy_check_mark: Em 2023-2
 
-Baseado nos requisitos apresentados pelo parceiro acadêmico a Py.nk está desenvolvendo um sistema que, fomentado sobre metodologias ágeis, entrega um internet banking com funções básicas de funcionamento e uma interface de administração para gerenciamento da aplicação. Para a realização deste, três principais atores foram levantados: o cliente que pode ser chamado também de usuário comum, deve poder realizar a requisição de cadastro, login, emissão de extrato bancário, movimentações em conta (depósito em caixa, saque e transferência) que geram no momento de execução um comprovante, requisição de atualização de dados e requisição de fechamento de conta; o gerente de agência é a entidade que gerencia uma unidade do banco (agência), deve poder realizar qualquer operação que um usuário comum realiza e além disso deve conseguir aceitar ou recusar requisições de abertura de conta de usuário, aceitar ou recusar requisições de alteração de dados de clientes, realizar a conferência de depósito em caixa e requerir alteração de seus próprios dados ao gerente geral; o gerente geral (além de todas as outras funcionalidades citadas das outras entidades) deve ter acesso ao gerenciamento das agências, dos gerentes de agência e do montante total do banco. Além das funcionalidades dos usuários o banco também deve conter tratativas para problemas como o arredondamento de casas decimais, rendimento de poupança e etc.
+### Parceiro Acadêmico
+[SIATT](https://www.siatt.com.br/siatt/)
 
-[GIT](https://github.com/pynkAPI/API-1-DSM_22)
+<img src="./img/siatt_engenharia_indstria_e_comercio_ltda_logo.jfif" alt="siatt" />
+
+## :bookmark_tabs: Sobre o projeto
+
+Nossa parceira, a empresa Siatt, enfrenta o desafio de gerenciar eficazmente seus projetos estratégicos em um cenário de complexidade, apresentamos uma solução abrangente e flexível, um Sistema de Gerenciamento de Times para Projetos Complexos. Esse sistema foi projetado para atender às necessidades específicas da Siatt, permitindo tanto um macro gerenciamento quanto um micro gerenciamento dos projetos.
+
+### :warning: Dificuldades
+
+> _Contratempos que afetam a eficiência operacional, a comunicação eficaz e a capacidade de monitorar o progresso dos projetos e suas etapas em tempo real. Estes desafios incluem dificuldade de gestão apropriada e um acompanhamento adequado dos projetos, juntamente com uma interface de usuário pouco amigável e problemas relacionados à integridade dos dados._
+
+### :white_check_mark: Proposta de Solução
+
+> _Um software especializado que permita importar dados de projetos em andamento a partir de arquivos Excel, para facilitar a migração de dados e a transição para um novo sistema de gerenciamento. A partir disso, o Engenheiro Chefe pode atribuir pacotes de trabalho e observar cada mudança do projeto e seus pacotes, subpacotes e tarefas. Melhorando a organização, o acompanhamento em tempo real e a colaboração entre as diferentes etapas do projeto. Já os Líderes de Projeto, têm acesso individual apenas aos seus Pacotes, podem gerenciá-los e acompanhar o andamento. De forma intuitiva, amigável e de usabilidade alta._
+
+### Contribuições pessoais
+
+### Hard Skills
+
+- Desenvolvimento API com Java e Spring Boot: Possuo habilidade autônoma nesta área;
+- Desenvolvimento de desing e estilização para o FrontEnd: Posso realizar com suporte;
+- Desenvolvimento de Funcionalidades de FrontEnd: Possuo habilidade autônoma nesta área;
+- Metodologia Ágil SCRUM: Possuo habilidade autônoma nesta área;
+
+### Soft Skills
+
+- Flexibilidade: Demonstrei notável adaptabilidade ao ingressar na equipe no meio do projeto. Rapidamente me integrei, compreendendo o contexto existente e ajustando-me às dinâmicas já estabelecidas. Essa capacidade de adaptação permitiu uma transição suave, assegurando a continuidade eficiente do trabalho em andamento.
+- Proatividade: Buscava ativamente realizar tarefas e antecipar potenciais desafios, assegurando uma abordagem preventiva para manter a eficiência operacional.
+- Trabalho em equipe: Valorizo a colaboração em uma equipe de 9 membros, onde cada integrante compreende claramente o seu papel, promovendo um ambiente de trabalho coeso e eficiente.
+- Pensamento Crítico: Exerci o pensamento crítico ao analisar situações complexas, avaliar diferentes perspectivas e tomar decisões fundamentadas para solucionar desafios de forma eficaz. 
+
+### Principal Ponto de Aprendizado
+
+- Desenvolvi adaptabilidade ao me integrar a uma forma de trabalho já estabelecida ao entrar na equipe durante o projeto. Além disso, aprimorei a habilidade de fornecer feedback de maneiras diversas para melhor atender às necessidades da equipe.
+
+## 🛠️ Tecnologias
+
+Linguagens, bibliotecas e tecnologias usadas na construção do projeto:
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Vscode">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github">
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+<img src="https://img.shields.io/badge/Slack-%23121011.svg?style=for-the-badge&logo=slack&logoColor=white" alt="Discord" />
+
+[GIT NINE-TECH](https://github.com/Nine-Tech)
